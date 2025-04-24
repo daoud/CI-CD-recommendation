@@ -23,7 +23,7 @@ knowledge_base = JSONKnowledgeBase(
     path="user_info.json",
     vector_db=PgVector(
         table_name="users",
-        db_url=os.getenv("PGVECTOR_DB_URL"),
+        db_url=os.getenv("DATABASE"),
         embedder=sentence_embedder,
       
     ),
