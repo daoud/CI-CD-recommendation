@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Mehta",
+    "skill": "Python, Machine Learning",
+    "experience": "4 years",
+    "current_role": "Data Scientist",
+    "company": "InnovaTech",
+    "location": "Bangalore"
+  },
+  {
+    "id": 2,
+    "name": "Sneha Kapoor",
+    "skill": "Graphic Design, Adobe Suite",
+    "experience": "5 years",
+    "current_role": "Senior Designer",
+    "company": "Creato Media",
+    "location": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Sharma",
+    "skill": "Java, Spring Boot",
+    "experience": "3 years",
+    "current_role": "Backend Developer",
+    "company": "Techverse",
+    "location": "Pune"
+  },
+  {
+    "id": 4,
+    "name": "Anjali Nair",
+    "skill": "Digital Marketing, SEO",
+    "experience": "6 years",
+    "current_role": "Marketing Manager",
+    "company": "BrandNest",
+    "location": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Karan Joshi",
+    "skill": "Accounting, QuickBooks",
+    "experience": "7 years",
+    "current_role": "Senior Accountant",
+    "company": "FinCorp",
+    "location": "Ahmedabad"
+  },
+  {
+    "id": 6,
+    "name": "Priya Verma",
+    "skill": "Teaching, Curriculum Planning",
+    "experience": "10 years",
+    "current_role": "High School Teacher",
+    "company": "Greenfield School",
+    "location": "Lucknow"
+  },
+  {
+    "id": 7,
+    "name": "Nikhil Rao",
+    "skill": "ReactJS, Node.js",
+    "experience": "2 years",
+    "current_role": "Frontend Developer",
+    "company": "Webify",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 8,
+    "name": "Tanvi Desai",
+    "skill": "UI/UX Design, Figma",
+    "experience": "3 years",
+    "current_role": "UX Designer",
+    "company": "PixelCraft",
+    "location": "Mumbai"
+  },
+  {
+    "id": 9,
+    "name": "Rahul Patil",
+    "skill": "Project Management, Agile",
+    "experience": "8 years",
+    "current_role": "Project Manager",
+    "company": "ZenoSoft",
+    "location": "Pune"
+  },
+  {
+    "id": 10,
+    "name": "Neha Reddy",
+    "skill": "Public Speaking, Leadership",
+    "experience": "4 years",
+    "current_role": "Corporate Trainer",
+    "company": "SkillUp India",
+    "location": "Chennai"
+  },
+  {
+    "id": 11,
+    "name": "Imran Sheikh",
+    "skill": "Networking, CCNA",
+    "experience": "5 years",
+    "current_role": "Network Engineer",
+    "company": "TechEdge",
+    "location": "Bangalore"
+  },
+  {
+    "id": 12,
+    "name": "Meera Kulkarni",
+    "skill": "Content Writing, Editing",
+    "experience": "6 years",
+    "current_role": "Content Strategist",
+    "company": "WordWeave",
+    "location": "Pune"
+  },
+  {
+    "id": 13,
+    "name": "Dev Mishra",
+    "skill": "Legal Research, Contract Law",
+    "experience": "7 years",
+    "current_role": "Legal Advisor",
+    "company": "LawPoint",
+    "location": "Delhi"
+  },
+  {
+    "id": 14,
+    "name": "Asmita Banerjee",
+    "skill": "Healthcare, Patient Care",
+    "experience": "5 years",
+    "current_role": "Nurse",
+    "company": "CarePlus Hospital",
+    "location": "Kolkata"
+  },
+  {
+    "id": 15,
+    "name": "Siddharth Jain",
+    "skill": "Data Analysis, Excel",
+    "experience": "3 years",
+    "current_role": "Business Analyst",
+    "company": "InsightOps",
+    "location": "Jaipur"
+  },
+  {
+    "id": 16,
+    "name": "Ritika Singh",
+    "skill": "HR Management, Recruiting",
+    "experience": "6 years",
+    "current_role": "HR Manager",
+    "company": "PeopleFirst",
+    "location": "Delhi"
+  },
+  {
+    "id": 17,
+    "name": "Vikram Iyer",
+    "skill": "Electrical Engineering, CAD",
+    "experience": "8 years",
+    "current_role": "Senior Engineer",
+    "company": "VoltTech",
+    "location": "Surat"
+  },
+  {
+    "id": 18,
+    "name": "Fatima Khan",
+    "skill": "Illustration, Storyboarding",
+    "experience": "4 years",
+    "current_role": "Animator",
+    "company": "StudioToon",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 19,
+    "name": "Ajay Goyal",
+    "skill": "Photography, Lightroom",
+    "experience": "5 years",
+    "current_role": "Photographer",
+    "company": "LensStories",
+    "location": "Indore"
+  },
+  {
+    "id": 20,
+    "name": "Sana Shaikh",
+    "skill": "AI Research, NLP",
+    "experience": "2 years",
+    "current_role": "AI Engineer",
+    "company": "NeuroAI",
+    "location": "Bangalore"
+  },
+  {
+    "id": 21,
+    "name": "Yashwant Naik",
+    "skill": "Logistics, Supply Chain",
+    "experience": "9 years",
+    "current_role": "Operations Manager",
+    "company": "SwiftTrack",
+    "location": "Nagpur"
+  },
+  {
+    "id": 22,
+    "name": "Rhea Thomas",
+    "skill": "Baking, Pastry Art",
+    "experience": "3 years",
+    "current_role": "Pastry Chef",
+    "company": "SugarBliss",
+    "location": "Goa"
+  },
+  {
+    "id": 23,
+    "name": "Saurabh Pandey",
+    "skill": "Cybersecurity, Penetration Testing",
+    "experience": "6 years",
+    "current_role": "Security Analyst",
+    "company": "SecuriGuard",
+    "location": "Noida"
+  },
+  {
+    "id": 24,
+    "name": "Harshita Aggarwal",
+    "skill": "Interior Design, AutoCAD",
+    "experience": "4 years",
+    "current_role": "Interior Designer",
+    "company": "DesignScape",
+    "location": "Chandigarh"
+  },
+  {
+    "id": 25,
+    "name": "Naveen Krishnan",
+    "skill": "Mechanical CAD, SolidWorks",
+    "experience": "5 years",
+    "current_role": "Mechanical Designer",
+    "company": "MechStruct",
+    "location": "Coimbatore"
+  }
+]
